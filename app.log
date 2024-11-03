@@ -1,0 +1,8 @@
+01:03:57.742 [main]INFO  loggerDemo - for info only
+01:03:57.747 [main]DEBUG loggerDemo - for info only
+01:03:57.747 [main]ERROR loggerDemo - for info only
+01:03:57.747 [main]WARN  loggerDemo - for info only
+01:06:22.086 [main]INFO  loggerDemo - for info only
+01:06:22.089 [main]DEBUG loggerDemo - for info only
+01:06:22.089 [main]ERROR loggerDemo - for info only
+01:06:22.089 [main]WARN  loggerDemo - for info only
